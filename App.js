@@ -13,7 +13,7 @@ export default function HelloWorldApp(){
       justifyContent: 'center',
       alignItems: 'center'
     }}>
-     <Text>Carlos Cifuentes</Text>
+     <Text>Carlos Cifuentes, <Text>Eng.</Text></Text>
      <Text>Entrepreneur—>Soon</Text>
      </View>
     );
